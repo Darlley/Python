@@ -6,7 +6,7 @@ Curso em vídeo - https://www.cursoemvideo.com/course/curso-python-3/
 
 CERTIFICAÇÃO
 -
-![Python](https://lh6.googleusercontent.com/hP4v69JnicMz361TCc893qEcBQ-aqUT4HBJpIyScY7VIP53JJLVTXvzYRN2O-ZCKldGXQF9H5eHMc0Izfcwf9oRJhVNN3dJWbnLkJLswGvkK7PMx9zSc=w1175)
+![Curso em Vídeo](https://lh6.googleusercontent.com/fmFlcWrnDPqJdyRWw2B8PcjfkYibPf2BA6Nqyp2lY_zCIOBzzOp017VIfoM0Ou5KpTzLwWzZMmjQ_VeM9XhCWuAWCPingctCtDRmzA0TmllPo-QRezk3=w1175)
 
 LIVROS -lendo
 -
