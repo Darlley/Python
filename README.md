@@ -2,11 +2,9 @@
 
 Resolução de exercícios dos canais:
 
-Curso em vídeo - https://www.cursoemvideo.com/course/curso-python-3/
-
 CERTIFICAÇÃO
 -
-![Curso em Vídeo](https://2.bp.blogspot.com/-QYl3F9QGAY4/Wz_eHSr1mpI/AAAAAAAABKo/hDoE5gxucPsILBP2y2h8vfQ0X9AGvN-3gCEwYBhgL/s640/certpy.jpg)
+[![Curso em Vídeo](https://2.bp.blogspot.com/-QYl3F9QGAY4/Wz_eHSr1mpI/AAAAAAAABKo/hDoE5gxucPsILBP2y2h8vfQ0X9AGvN-3gCEwYBhgL/s640/certpy.jpg)](https://www.cursoemvideo.com/course/curso-python-3/)
 
 LIVROS -lendo
 -
